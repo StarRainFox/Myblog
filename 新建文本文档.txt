@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>My Blog</title>
+		<link rel="stylesheet" type="text/css" href="CSS\stylesheet.css">
+	</head>
+	<body background="一辈子.jpg">
+		<div id="one">
+			<h1>about me</h1>
+			<p >我叫。。，我喜欢。。。。。。，我想告诉你。。。。。。。</p>
+			
+			<img src="picture\111.jpg">
+
+		</div>
+		
+
+	</body>
+</html>
